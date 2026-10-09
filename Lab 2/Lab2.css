@@ -1,0 +1,31 @@
+.firstDiv {
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+
+.secondDiv {
+    text-align: center;
+    padding: 10px;
+}
+
+.thirdDiv,
+.fourthDiv {
+    text-align: center;
+    padding: 10px;
+}
+
+.projects-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 100px;
+}
+
+.contact-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 3px;
+}
